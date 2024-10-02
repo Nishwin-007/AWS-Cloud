@@ -4,7 +4,7 @@ Amazon Web Services (AWS) is a cloud computing platform that offers a range of s
 
 AWS offers a wide range of services, including compute, storage, databases, analytics, networking, developer tools, management tools and security.
 
-![AWS](/C:\Technical Writing\Week 6\Mark Down\AWS\AWS-Cloud\Images/)
+![AWS](/Images/aws-cloud-services-1000x1000.png)
 
 
 **Key services of AWS are:**
