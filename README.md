@@ -6,7 +6,6 @@ AWS offers a wide range of services, including compute, storage, databases, anal
 
 ![AWS](/Images/aws-cloud-services-1000x1000.png)
 
-
 **Key services of AWS are:**
 
 * Amazon EC2
