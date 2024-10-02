@@ -13,7 +13,7 @@ AWS offers a wide range of services, including:
 * Management tools
 * Security
 
-This Quick Start Guide helps you to understand on how to use AWS.
+This Quick Start Guide helps you to understand on how to use Amazon EC2.
 
 To use AWS,
 1. Go to aws.amazom.com.
