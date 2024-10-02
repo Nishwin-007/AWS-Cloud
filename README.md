@@ -13,7 +13,7 @@ AWS offers a wide range of services, including:
 * Management tools
 * Security
 
-This Quick Start Guide helps you to understand on how to use Amazon EC2.
+This Quick Start Guide helps you to understand on how to use Amazon EC2 to deploy an app.
 
 To use AWS,
 1. Go to aws.amazom.com.
